@@ -1,0 +1,13 @@
+/Library
+/.vs
+/Logs
+/obj
+/UserSettings
+/Assembly-CSharp.csproj
+/Assembly-CSharp-firstpass.csproj
+/Boxophobic.PolyverseSkies.Editor.csproj
+/Boxophobic.PolyverseSkies.Runtime.csproj
+/Boxophobic.PolyverseSkies.Scripts.csproj
+/Boxophobic.Utils.Editor.csproj
+/Boxophobic.Utils.Scripts.csproj
+/GrowBallGame.sln
